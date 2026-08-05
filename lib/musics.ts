@@ -21,6 +21,25 @@ interface Providers {
 
 export const musics: MusicTrack[] = [
   {
+    youtube_id: "JqHX5Oxhwrw",
+    label: "",
+    style: "tropical_house",
+    title: "Endless Days",
+    artists: "AzenoX",
+    date: "31/07/2026",
+    image:
+      "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bf/1b/47/bf1b477c-a9c3-d8c7-ba90-1c218c50109f/5064030115146_cover.jpg/640x640bb.jpg",
+    providers: {
+      youtube: "https://www.youtube.com/watch?v=JqHX5Oxhwrw",
+      youtube_music: "https://music.youtube.com/watch?v=Xjo0Y3gge4Y",
+      spotify: "https://open.spotify.com/intl-fr/track/7GhfHoU3uyTa3t7t7N2yAa",
+      deezer: "https://link.deezer.com/s/33YWOklB8yNLN5ObXbgm9",
+      apple_music: "https://music.apple.com/gb/song/endless-days/6791560323",
+      soundcloud: "https://soundcloud.com/azenoxmusics/endless-days",
+      tidal: "https://tidal.com/track/543251784/u",
+    },
+  },
+  {
     youtube_id: "enatPYZ9baY",
     label: "LVLD",
     style: "drum_and_bass",
