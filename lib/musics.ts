@@ -21,6 +21,25 @@ interface Providers {
 
 export const musics: MusicTrack[] = [
   {
+    youtube_id: "jIR0LljqOkA",
+    label: "Outertone",
+    style: "drum_and_bass",
+    title: "Not Enough",
+    artists: "AzenoX",
+    date: "12/08/2026",
+    image:
+      "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/27/e9/75/27e9750a-1f65-2982-efa8-3f6a73bf42bc/5064042553424_cover.jpg/640x640bb.jpg",
+    providers: {
+      youtube: "https://www.youtube.com/watch?v=jIR0LljqOkA",
+      youtube_music: "https://music.youtube.com/watch?v=EKI4a6fXUkM",
+      spotify: "https://open.spotify.com/intl-fr/track/4kpiVDsM5WnRYByiDKLfq9",
+      deezer: "https://link.deezer.com/s/345OE2cwImoOnRWnwrgbZ",
+      apple_music: "https://music.apple.com/gb/song/not-enough/6798877754",
+      soundcloud: "https://soundcloud.com/azenoxmusics/not-enough",
+      tidal: "https://tidal.com/track/549704077/u",
+    },
+  },
+  {
     youtube_id: "JqHX5Oxhwrw",
     label: "",
     style: "tropical_house",
