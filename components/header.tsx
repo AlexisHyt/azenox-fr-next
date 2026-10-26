@@ -68,6 +68,7 @@ export default function Header() {
               stroke="currentColor"
               className="size-4"
             >
+              <title>All links</title>
               <path
                 strokeLinecap="round"
                 strokeLinejoin="round"
