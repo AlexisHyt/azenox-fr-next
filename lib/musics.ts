@@ -21,6 +21,24 @@ interface Providers {
 
 export const musics: MusicTrack[] = [
   {
+    youtube_id: "sFZxBzeNbtM",
+    label: "LVLD",
+    style: "drum_and_bass",
+    title: "Star Around",
+    artists: "AzenoX",
+    date: "07/11/2026",
+    image: "https://i1.sndcdn.com/artworks-DLHNqYXFK3wi-0-t500x500.jpg",
+    providers: {
+      youtube: "https://www.youtube.com/watch?v=sFZxBzeNbtM",
+      youtube_music: "https://music.youtube.com/watch?v=ONoJ2Gvhei4",
+      spotify: "https://open.spotify.com/intl-fr/track/2g7EFnSH5mduORex1WZkkj",
+      deezer: "https://link.deezer.com/s/34TpANxDL8U9k01MS0BIc",
+      apple_music: "https://music.apple.com/gb/song/stay-around/6821619786",
+      soundcloud: "https://soundcloud.com/azenox-sc/stay-around",
+      tidal: "https://tidal.com/track/568977111/u",
+    },
+  },
+  {
     youtube_id: "jIR0LljqOkA",
     label: "Outertone",
     style: "drum_and_bass",
@@ -65,15 +83,13 @@ export const musics: MusicTrack[] = [
     title: "Round & Round",
     artists: "AzenoX",
     date: "24/04/2026",
-    image:
-      "https://i1.sndcdn.com/artworks-YMylMReLRzhv-0-t500x500.png",
+    image: "https://i1.sndcdn.com/artworks-YMylMReLRzhv-0-t500x500.png",
     providers: {
       youtube: "https://www.youtube.com/watch?v=VnWeZo_f1MY",
       youtube_music: "https://music.youtube.com/watch?v=VnWeZo_f1MY",
       spotify: "https://open.spotify.com/intl-fr/track/1Xlm856fZK4JmBkOdebs91",
       deezer: "https://link.deezer.com/s/347NJSAlnFS5L5pqECKh4",
-      apple_music:
-        "https://music.apple.com/gb/song/round-round/1890218690",
+      apple_music: "https://music.apple.com/gb/song/round-round/1890218690",
       soundcloud: "https://soundcloud.com/azenox-music/round-round",
       tidal: "https://tidal.com/track/512572333/u",
     },
